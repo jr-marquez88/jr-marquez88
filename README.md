@@ -2,7 +2,7 @@
 <br>
 <img src="programadorAnimado.png" alt="Animated programmer image" align="right" width="250px"/>
 <div style="font-size:"12">
-<h3>About me</h3>
+<h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">About me</h3>
 Hello, I’m Javier Ríos Márquez, a junior software developer recently trained in Multiplatform Application Development. During my training, I have worked on both web and mobile projects, using frontend and backend technologies, which has allowed me to gain a solid full-stack development perspective.
  <br><br>
 I have developed web applications using HTML, CSS, JavaScript, PHP, and MySQL, as well as mobile applications for Android (Kotlin + Firebase) and iOS (Swift + CoreData). I enjoy building functional solutions, paying attention to detail, and continuously learning new tools and best practices.
