@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Javier Ríos Márquez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
-<img src="programadorAnimado.png" alt="Animated programmer image" align="right" width="250px"/>
+<img src="programadorAnimado.png" alt="Animated programmer image" align="right" width="40%"/>
 <div style="font-size:"12">
 <h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">About me</h3>
 Hello, I’m Javier Ríos Márquez, a junior software developer recently trained in Multiplatform Application Development. During my training, I have worked on both web and mobile projects, using frontend and backend technologies, which has allowed me to gain a solid full-stack development perspective.
@@ -31,5 +31,5 @@ I come from a professional background closely related to technology and customer
 
 <!--icons and links-->
 <p>
-<a href="www.linkedin.com/in/javier-ríos-márquez-2b5b47266" target="blank"><img  src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="www.linkedin.com/in/javier-ríos-márquez-2b5b47266" target="blank"><img  src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="10%" width="10%" /></a>
 </p>
