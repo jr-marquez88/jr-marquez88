@@ -31,5 +31,5 @@ I come from a professional background closely related to technology and customer
 
 <!--icons and links-->
 <p>
-<a href="www.linkedin.com/in/javier-ríos-márquez-2b5b47266" target="_blank"><img  src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="10%" width="10%" /></a>
+<a href="www.linkedin.com/in/javier-ríos-márquez-2b5b47266" target="_blank"><img  src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="5%" width="5%" /></a>
 </p>
